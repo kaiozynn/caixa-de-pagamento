@@ -1,2 +1,1 @@
-# caixa de pagamento
- 
+# caixa-de-pagamento
